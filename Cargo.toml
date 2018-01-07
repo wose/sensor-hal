@@ -1,0 +1,11 @@
+[package]
+authors = ["Sebastian Woetzel <wose@zuendmasse.de>"]
+categories = ["embedded", "hardware-support", "no-std"]
+description = "A Hardware Abstraction Layer (HAL) for common sensors"
+keywords = ["hal", "sensor"]
+license = "MIT OR Apache-2.0"
+name = "sensor-hal"
+repository = "https://github.com/wose/sensor-hal"
+version = "0.1.0"
+
+[dependencies]
